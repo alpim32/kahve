@@ -16,7 +16,7 @@
   <author href="https://mehmet.egeovasi.com" email="mehmet@egeovasi.com">
       Mehmet E.
   </author>
-    <icon src="http://www.egeovasi.com/k/android.png" />
+    <icon src="logo.png" />
     <allow-navigation href="*://*.egeovasi.com/*" />
   <content src="http://www.egeovasi.com/k/" />
 </widget>
